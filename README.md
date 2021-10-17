@@ -1,4 +1,4 @@
-# assistant
+# Assistant
 In this project i'm using these modules.
 
 1. pyttsx3 #pip install pyttsx3
