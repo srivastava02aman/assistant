@@ -3,20 +3,21 @@
 <hr>
 
 <h3>In this project i'm using these modules</h3>
+<ul>
+ <li>pyttsx3 #pip install pyttsx3
 
-1. pyttsx3 #pip install pyttsx3
+ <li>speech_recognition as sr #pip install speechRecognition
 
-2. speech_recognition as sr #pip install speechRecognition
+<li> datetime
 
-3. datetime
+ <li>wikipedia #pip install wikipedia
 
-4. wikipedia #pip install wikipedia
+ <li>webbrowser
 
-5. webbrowser
+<li> os
 
-6. os
-
-7. smtplib
+ <li>smtplib
+</ul>
 
 <hr>
 
