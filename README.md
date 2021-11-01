@@ -22,4 +22,4 @@
 <hr>
 
 <h3>Technology Used</h3>
-1. Python
+<li> Python
