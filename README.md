@@ -14,6 +14,7 @@
 
 </ul>
 
-<h3>Technology Used</h3>
+<hr>
 
+<h3>Technology Used</h3>
 <li> Python
