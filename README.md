@@ -1,6 +1,6 @@
 <h1>Assistant</h1>
 
-<h3>In this project i'm using these modules</h3>
+<h3>Modules</h3>
 
 <ul>
  
